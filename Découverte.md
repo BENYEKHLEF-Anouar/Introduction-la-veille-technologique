@@ -1,7 +1,6 @@
 # Fiche Découverte — Google Antigravity
 
-## Date
-**4 décembre 2025**
+*Apprenant : **Benyekhlef Anouar***
 
 ---
 
