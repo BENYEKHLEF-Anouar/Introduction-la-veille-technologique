@@ -21,8 +21,8 @@ Cette veille s’inscrit dans le cadre de la formation en :
 Elle permet à un étudiant développeur de mieux comprendre que la réussite d’un produit numérique ne dépend pas uniquement de la technique, mais aussi de la communication, de l’expérience utilisateur et de l’image véhiculée autour d’un projet.
 
 ## Première source
-- Google Official Blog – April Fools’ announcements (Google Antigravity, 2012)  
-  https://blog.google/inside-google/company-announcements/april-fools-2012/
+- Google Official Blog – Documentaion  
+  [https://blog.google/inside-google/company-announcements/april-fools-2012/](https://antigravity.google/docs/get-started)](https://antigravity.google/docs/get-started)
 
 ## Synthèse rapide
 Google Antigravity est une fausse innovation présentée par Google à l’occasion du 1er avril. À travers ce projet fictif, Google démontre sa capacité à mêler technologie, storytelling et humour. Pour un étudiant en développement web et mobile, cet exemple montre l’importance de la présentation d’un projet, de la créativité et de la communication pour capter l’attention des utilisateurs, au-delà du simple aspect technique.
