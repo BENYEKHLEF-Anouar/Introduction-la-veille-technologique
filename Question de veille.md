@@ -20,11 +20,11 @@ Cette veille est liée aux domaines de :
 
 Elle permet de mieux comprendre comment les grandes entreprises utilisent l’humour et la créativité pour engager leur audience.
 
-## 🔹 Première source
+## Première source
 - Google Official Blog – April Fools’ announcements (Google Antigravity, 2012)  
   https://blog.google/inside-google/company-announcements/april-fools-2012/
 
-## 🔹 Synthèse rapide
+## Synthèse rapide
 Google Antigravity, présenté comme un projet révolutionnaire, est en réalité une blague du 1er avril. Cette initiative montre comment Google utilise des annonces fictives crédibles pour démontrer son esprit d’innovation, créer de la viralité et renforcer son identité auprès du grand public.
 
 
