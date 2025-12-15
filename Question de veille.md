@@ -4,7 +4,7 @@
 Google Antigravity
 
 ## Question de recherche
-Comment Google Antigravity illustre-t-il l’usage de la communication humoristique et de l’innovation fictive dans le secteur du numérique, et en quoi cette stratégie est pertinente pour un futur développeur web et mobile ?
+Comment Google Antigravity illustre-t-il l’usage de la communication et de l’innovation fictive dans le secteur du numérique, et en quoi cette stratégie est pertinente pour un futur développeur web et mobile ?
 
 ## Résultat attendu
 Comprendre comment une initiative fictive comme Google Antigravity peut :
