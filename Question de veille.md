@@ -4,27 +4,25 @@
 Google Antigravity
 
 ## Question de recherche
-Comment Google Antigravity illustre-t-il l’usage de la communication humoristique et de l’innovation fictive pour renforcer l’image de marque de Google ?
+Comment Google Antigravity illustre-t-il l’usage de la communication humoristique et de l’innovation fictive dans le secteur du numérique, et en quoi cette stratégie est pertinente pour un futur développeur web et mobile ?
 
 ## Résultat attendu
-Comprendre comment une initiative fictive (Google Antigravity) peut :
-- attirer l’attention du public,
-- renforcer la notoriété et la sympathie envers une entreprise technologique,
-- servir de levier de communication et de marketing sans produit réel.
+Comprendre comment une initiative fictive comme Google Antigravity peut :
+- capter l’attention des utilisateurs et des développeurs,
+- renforcer l’image de marque d’une entreprise technologique,
+- inspirer la manière de présenter et valoriser un projet web ou mobile, même à petite échelle (portfolio, projet scolaire, startup).
 
 ## Contexte métier
-Cette veille est liée aux domaines de :
-- la communication digitale,
-- le marketing technologique,
-- le branding et l’image de marque des entreprises du numérique.
+Cette veille s’inscrit dans le cadre de la formation en :
+- développement web et mobile,
+- culture numérique et technologique,
+- compréhension de l’écosystème des grandes entreprises du web.
 
-Elle permet de mieux comprendre comment les grandes entreprises utilisent l’humour et la créativité pour engager leur audience.
+Elle permet à un étudiant développeur de mieux comprendre que la réussite d’un produit numérique ne dépend pas uniquement de la technique, mais aussi de la communication, de l’expérience utilisateur et de l’image véhiculée autour d’un projet.
 
 ## Première source
 - Google Official Blog – April Fools’ announcements (Google Antigravity, 2012)  
   https://blog.google/inside-google/company-announcements/april-fools-2012/
 
 ## Synthèse rapide
-Google Antigravity, présenté comme un projet révolutionnaire, est en réalité une blague du 1er avril. Cette initiative montre comment Google utilise des annonces fictives crédibles pour démontrer son esprit d’innovation, créer de la viralité et renforcer son identité auprès du grand public.
-
-
+Google Antigravity est une fausse innovation présentée par Google à l’occasion du 1er avril. À travers ce projet fictif, Google démontre sa capacité à mêler technologie, storytelling et humour. Pour un étudiant en développement web et mobile, cet exemple montre l’importance de la présentation d’un projet, de la créativité et de la communication pour capter l’attention des utilisateurs, au-delà du simple aspect technique.
