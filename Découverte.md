@@ -13,7 +13,7 @@
 - **Source principale** : Documentation officielle Google Developers & Google Blog
 - **Publication** : Novembre 2025 (Annonce officielle)
 - **Lien** : Google Developers Blog, Blog Google (gemini-3), Google Codelabs
-- **Vérification** : Infos croisées avec des sources técnicas (Dev.to, IT Pro)
+- **Vérification** : Infos croisées avec des sources techniques (Dev.to, IT Pro)
 
 ---
 
@@ -55,7 +55,7 @@ Pour un développeur, Antigravity représente une **évolution majeure de l'assi
 
 4. **Amélioration continue** : La plateforme dispose d'une **knowledge base** où les agents sauvegardent du contexte et des snippets de code pour s'améliorer sur les tâches futures.
 
-5. **Apprentissage accéléré** : Pour un développeur en formation (comme à Solicode), voir un agent planifier et exécuter des tâches end-to-end offre une perspective nouvelle sur les bonnes pratiques de développement.
+5. **Apprentissage accéléré** : Pour un développeur en formation (notamment sur **Laravel**), voir un agent générer l'échafaudage complet (Migrations, Models, Controllers, Views) en respectant l'architecture MVC offre une démonstration pratique des conventions et bonnes pratiques standard.
 
 ---
 

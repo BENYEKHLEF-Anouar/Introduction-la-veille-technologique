@@ -18,8 +18,8 @@
 
 ## Justification du choix
 
-J’ai choisi ce sujet car Google Antigravity illustre de façon simple et visuelle comment utiliser JavaScript pour créer des animations, manipuler le DOM et simuler des effets physiques.
-C’est un sujet accessible à mon niveau et utile pour progresser en développement front-end, notamment dans la compréhension des moteurs physiques, des événements et des interactions utilisateur.
+J’ai choisi ce sujet car Google Antigravity illustre de façon simple et visuelle comment utiliser l'IA pour automatiser des tâches complexes, faciliter la phase de coding et éviter de perdre du temps.
+C’est un sujet accessible à mon niveau et utile pour progresser en développement.
 
 ---
 
@@ -41,7 +41,7 @@ Pratique pour une démonstration visuelle
 
 | Critère                   | Réponse | Pourquoi                                                                                         |
 | ------------------------- | ------- | ------------------------------------------------------------------------------------------------ |
-| Lien avec la formation | Oui | Le développement basé sur l'IA et l'automatisation, ainsi que le front-end, le DOM et JavaScript, font partie du programme. |
+| Lien avec la formation | Oui | Le développement basé sur l'IA, l'automatisation, ainsi que le Backend (PHP/Laravel) et le Front-end, font partie du programme. |
 | Utile pour progresser | Oui | Comprendre le développement axé sur l'IA, les animations, interactions et moteurs physiques améliore mes compétences. |
 | Accessible             |   Oui  | Les exemples sont simples à tester et à expliquer.                                               |
 
